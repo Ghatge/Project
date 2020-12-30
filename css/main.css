@@ -1,0 +1,27 @@
+body{
+    padding-left: 1em;
+    background-color: black;
+    color:white;
+}
+h1{
+    color: blue;
+    font-style: italic;
+}
+h2{
+    color: aqua;
+    font-style: italic;
+}
+.breed_text{
+    font-size: larger;
+}
+.breed_link{
+    font-size: large;
+}
+main{
+    font-size: large;
+    font-weight: bold;
+    font-style: italic;
+}
+td{
+    border:4px black dotted;
+}

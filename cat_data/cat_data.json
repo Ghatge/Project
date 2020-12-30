@@ -1,0 +1,124 @@
+{
+  "breeds": [
+    {
+      "name": "Abyssinian Cat",
+      "origin": "Egypt",
+      "pictures": {
+        "small": "abyssinian-cat_small.jpg",
+        "large": "abyssinian-cat_large.jpg"
+      },
+      "text": "The Abyssinian is a breed of domestic short-haired cat with a distinctive \"ticked\" tabby coat, in which individual hairs are banded with different colors. The breed is named for Abyssinia, where it is believed to have originated.",
+      "link": "https://en.wikipedia.org/wiki/Abyssinian_cat"
+    },
+    {
+      "name": "Birman Cat",
+      "origin": "Burma",
+      "pictures": {
+        "small": "birman-cat_small.jpg",
+        "large": "birman-cat_large.jpg"
+      },
+      "text": "The Birman, also called the \"Sacred Cat of Burma\", is a domestic cat breed. The Birman is a long-haired, colour-pointed cat distinguished by a silky coat, deep blue eyes, and contrasting white \"gloves\" or \"socks\" on each paw. The breed name is derived from Birmanie, the French form of Burma.",
+      "link": "https://en.wikipedia.org/wiki/Birman"
+    },
+    {
+      "name": "British Shorthair",
+      "origin": "Great Britain",
+      "pictures": {
+        "small": "british-shorhair_small.jpg",
+        "large": "british-shorhair_large.jpg"
+      },
+      "text": "The British Shorthair is the pedigreed version of the traditional British domestic cat, with a distinctively chunky body, dense coat and broad face.",
+      "link": "https://en.wikipedia.org/wiki/British_Shorthair"
+    },
+    {
+      "name": "Maine Coon",
+      "origin": "United States",
+      "pictures": {
+        "small": "maine-coon_small.jpg",
+        "large": "maine-coon_large.jpg"
+      },
+      "text": "The Maine Coon is the largest domesticated cat breed. It has a distinctive physical appearance and valuable hunting skills. It is one of the oldest natural breeds in North America, specifically native to the state of Maine, where it is the official state cat.",
+      "link": "https://en.wikipedia.org/wiki/Maine_Coon"
+    },
+    {
+      "name": "Persian Cat",
+      "origin": "Iran",
+      "pictures": {
+        "small": "persian-cat_small.jpg",
+        "large": "persian-cat_large.jpg"
+      },
+      "text": "The Persian Cat is a long-haired breed of cat characterized by its round face and short muzzle. It is also known as the \"Persian Longhair\" in the English-speaking countries. In the Middle East, region they are widely known as \"Iranian cat\" and in Iran they are known as \"Shirazi cat\".",
+      "link": "https://en.wikipedia.org/wiki/Persian_cat"
+    },
+    {
+      "name": "Ragdoll Cat",
+      "origin": "United States",
+      "pictures": {
+        "small": "ragdoll-cat_small.jpg",
+        "large": "ragdoll-cat_large.jpg"
+      },
+      "text": "The Ragdoll is a cat breed with a color point coat and blue eyes. They are large and muscular semi-longhair cat with a soft and silky coat. Developed by American breeder Ann Baker in the 1960s, they are best known for their docile and placid temperament and affectionate nature.",
+      "link": "https://en.wikipedia.org/wiki/Ragdoll"
+    },
+    {
+      "name": "Russian Blue",
+      "origin": "Russia",
+      "pictures": {
+        "small": "russian-blue_small.jpg",
+        "large": "russian-blue_large.jpg"
+      },
+      "text": "The Russian Blue is a cat breed that comes in colors varying from a light shimmering silver to a darker, slate grey. They develop close bonds with their owners and are sought out as pets due to their personalities, beauty and coat.",
+      "link": "https://en.wikipedia.org/wiki/Russian_Blue"
+    },
+    {
+      "name": "Savannah Cat",
+      "origin": "United States",
+      "pictures": {
+        "small": "savannah-cat_small.jpg",
+        "large": "savannah-cat_large.jpg"
+      },
+      "text": "The Savannah is a hybrid cat breed. It is a cross between a serval and a domestic cat.",
+      "link": "https://en.wikipedia.org/wiki/Savannah_cat"
+    },
+    {
+      "name": "Scottish Fold",
+      "origin": "Great Britain",
+      "pictures": {
+        "small": "scottish-fold_small.jpg",
+        "large": "scottish-fold_large.jpg"
+      },
+      "text": "The Scottish Fold is a breed of domestic cat with a natural dominant-gene mutation that affects cartilage throughout the body, causing the ears to \"fold\", bending forward and down towards the front of the head, which gives the cat what is often described as an \"owl-like\" appearance.",
+      "link": "https://en.wikipedia.org/wiki/Scottish_Fold"
+    },
+    {
+      "name": "Siamese Cat",
+      "origin": "Thailand",
+      "pictures": {
+        "small": "siamese-cat_small.jpg",
+        "large": "siamese-cat_large.jpg"
+      },
+      "text": "The Siamese Cat is one of the first distinctly recognized breeds of Asian cat. Derived from the Wichianmat landrace, one of several varieties of cat native to Thailand, the Siamese became one of the most popular breeds in Europe and North America in the 19th century.",
+      "link": "https://en.wikipedia.org/wiki/Siamese_cat"
+    },
+    {
+      "name": "Singapura Cat",
+      "origin": "Singapore",
+      "pictures": {
+        "small": "singapura-cat_small.jpg",
+        "large": "singapura-cat_large.jpg"
+      },
+      "text": "The Singapura is one of the smallest breeds of cats, noted for its large eyes and ears, brown ticked coat and blunt tail.",
+      "link": "https://en.wikipedia.org/wiki/Singapura_cat"
+    },
+    {
+      "name": "Sphynx Cat",
+      "origin": "Canada",
+      "pictures": {
+        "small": "sphynx-cat_small.jpg",
+        "large": "sphynx-cat_large.jpg"
+      },
+      "text": "The Sphynx Cat is a breed of cat known for its lack of coat. Hairlessness in cats is a natural occurring gene mutation; however, the Sphynx cat, as a breed, was developed through selective breeding, starting in the 1960s.",
+      "link": "https://en.wikipedia.org/wiki/Sphynx_cat"
+    }
+  ]
+}
